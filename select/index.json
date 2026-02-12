@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユースフルレジスタンス",
+  "base_artist": "Day2",
+  "createdAt": "2026-02-12T16:29:14.277436Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユースフルレジスタンス",
+      "artist": "Day2",
+      "has_synced": false,
+      "path": "select/pl_01_ユースフルレジスタンス_Day2.txt"
+    }
+  ]
+}
